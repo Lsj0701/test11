@@ -10,5 +10,6 @@
 </head>
 <body>
 <a href="HkController.do?command=list">글목록조회</a>
+<span>소스수정</span>
 </body>
 </html>
